@@ -19,6 +19,8 @@ In week seven we will discuss the following topics:
 
 #### Promises
 Some nice resources about promises :ring:
+- https://javascript.info/async (recommended for promises and also for JS in general)
+- https://scotch.io/tutorials/javascript-promises-for-dummies
 - [Googles post about Promises](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 - [A nice article from David Walsh](https://davidwalsh.name/promises)
 - [A real life example](https://github.com/mdn/js-examples/blob/master/promises-test/index.html)
